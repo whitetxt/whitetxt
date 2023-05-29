@@ -27,7 +27,6 @@ i like writing the code
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052cc?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Stats for the nerds
 
