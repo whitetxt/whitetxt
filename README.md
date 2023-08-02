@@ -1,12 +1,12 @@
 # _whitetxt
 
-hey :)
+hey :3
 
 i like writing the code
 
 ## Programming Information:
 
-### Languages I Use:
+### Languages/things I Use:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-639ad2?style=for-the-badge&logo=c&logoColor=white)
