@@ -37,4 +37,4 @@ i like writing the code
 ## more
 
 go
-\>\> [web site](https://whitetxt.duckdns.org) <<
+\>\> [web site](https://whitetxt.dev) <<
