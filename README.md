@@ -1,40 +1,56 @@
-# _whitetxt
+<br clear="both">
 
-hey :3
+<h1 align="left">Hi! 👋 I'm _whitetxt</h1>
 
-i like writing the code
+###
 
-## Programming Information:
+<br clear="both">
 
-### Languages/things I Use:
+<h2 align="left">Full(ish)-stack developer & 2nd year Computer Science student</h2>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-639ad2?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7e93d1?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-42d2fd?style=for-the-badge&logo=flutter&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite3-67bae7?style=for-the-badge&logo=sqlite&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+###
 
-### Development Environment:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=whitetxt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+ <img align="right" height="150" src="https://whitetxt.dev/static/img/pfp_hires.png"  />
+</div>
 
-![Windows](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
- or 
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)
+###
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+<br clear="both">
 
-## Stats for the nerds
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whitetxt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whitetxt&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-[![Lang stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whitetxt&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">My Languages</h2>
 
-## more
+###
 
-go
-\>\> [web site](https://whitetxt.dev) <<
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="48" alt="latex logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/whitetxt/whitetxt/output/snake.svg" alt="Snake animation" />
+
+###
