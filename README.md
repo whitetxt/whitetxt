@@ -1,4 +1,4 @@
-<h1 align="left">Hi! 👋 I'm _whitetxt</h1>
+<h1 align="left">Hi! 👋 I'm _whitetxt or J</h1>
 
 ###
 
